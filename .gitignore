@@ -11,3 +11,4 @@ tplstakepool/public/
 tplstakepool/.sass-cache/
 /backend/stakepoold/stakepoold
 /.idea/
+/Makefile
