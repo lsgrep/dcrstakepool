@@ -1,7 +1,10 @@
-module github.com/decred/dcrstakepool
+module github.com/lsgrep/dcrstakepool
 
 require (
+	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f // indirect
 	github.com/btcsuite/go-flags v0.0.0-20150116065318-6c288d648c1c
+	github.com/btcsuite/golangcrypto v0.0.0-20150304025918-53f62d9b43e8 // indirect
+	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792 // indirect
 	github.com/decred/dcrd/blockchain/stake v1.0.2
 	github.com/decred/dcrd/certgen v1.0.1
 	github.com/decred/dcrd/chaincfg v1.1.1
@@ -11,6 +14,9 @@ require (
 	github.com/decred/dcrd/hdkeychain v1.1.0
 	github.com/decred/dcrd/rpcclient v1.0.1
 	github.com/decred/dcrd/wire v1.1.0
+	github.com/decred/dcrrpcclient v0.8.0 // indirect
+	github.com/decred/dcrstakepool v1.1.1 // indirect
+	github.com/decred/dcrutil v0.8.0 // indirect
 	github.com/decred/dcrwallet/wallet v1.0.0
 	github.com/decred/slog v1.0.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible

@@ -9,10 +9,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/decred/dcrstakepool/controllers"
-	"github.com/decred/dcrstakepool/models"
-	"github.com/decred/dcrstakepool/stakepooldclient"
-	"github.com/decred/dcrstakepool/system"
+	"github.com/lsgrep/dcrstakepool/controllers"
+	"github.com/lsgrep/dcrstakepool/models"
+	"github.com/lsgrep/dcrstakepool/stakepooldclient"
+	"github.com/lsgrep/dcrstakepool/system"
 	"github.com/decred/slog"
 	"github.com/jrick/logrotate/rotator"
 )

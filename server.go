@@ -12,9 +12,9 @@ import (
 	"github.com/gorilla/context"
 
 	"github.com/decred/dcrd/rpcclient"
-	"github.com/decred/dcrstakepool/controllers"
-	"github.com/decred/dcrstakepool/stakepooldclient"
-	"github.com/decred/dcrstakepool/system"
+	"github.com/lsgrep/dcrstakepool/controllers"
+	"github.com/lsgrep/dcrstakepool/stakepooldclient"
+	"github.com/lsgrep/dcrstakepool/system"
 
 	"github.com/zenazn/goji/graceful"
 	"github.com/zenazn/goji/web"

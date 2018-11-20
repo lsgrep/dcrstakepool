@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/decred/dcrstakepool/system"
+	"github.com/lsgrep/dcrstakepool/system"
 )
 
 type ApiController struct {

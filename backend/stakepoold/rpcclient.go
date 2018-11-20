@@ -8,7 +8,7 @@ import (
 	"github.com/decred/dcrd/chaincfg/chainhash"
 	"github.com/decred/dcrd/dcrutil"
 	"github.com/decred/dcrd/rpcclient"
-	"github.com/decred/dcrstakepool/backend/stakepoold/userdata"
+	"github.com/lsgrep/dcrstakepool/backend/stakepoold/userdata"
 )
 
 var requiredChainServerAPI = semver{major: 5, minor: 0, patch: 0}

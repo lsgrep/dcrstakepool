@@ -19,8 +19,8 @@ import (
 	"google.golang.org/grpc"
 
 	"github.com/decred/dcrd/chaincfg/chainhash"
-	pb "github.com/decred/dcrstakepool/backend/stakepoold/rpc/stakepoolrpc"
-	"github.com/decred/dcrstakepool/backend/stakepoold/userdata"
+	pb "github.com/lsgrep/dcrstakepool/backend/stakepoold/rpc/stakepoolrpc"
+	"github.com/lsgrep/dcrstakepool/backend/stakepoold/userdata"
 )
 
 // Public API version constants

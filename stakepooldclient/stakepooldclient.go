@@ -7,8 +7,8 @@ import (
 	"google.golang.org/grpc/credentials"
 
 	"github.com/decred/dcrd/chaincfg/chainhash"
-	pb "github.com/decred/dcrstakepool/backend/stakepoold/rpc/stakepoolrpc"
-	"github.com/decred/dcrstakepool/models"
+	pb "github.com/lsgrep/dcrstakepool/backend/stakepoold/rpc/stakepoolrpc"
+	"github.com/lsgrep/dcrstakepool/models"
 	"golang.org/x/net/context"
 )
 

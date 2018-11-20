@@ -14,8 +14,8 @@ import (
 	"github.com/decred/dcrd/dcrjson"
 	"github.com/decred/dcrd/dcrutil"
 	"github.com/decred/dcrd/rpcclient"
-	"github.com/decred/dcrstakepool/models"
 	"github.com/decred/dcrwallet/wallet/udb"
+	"github.com/lsgrep/dcrstakepool/models"
 )
 
 // functionName
